@@ -202,10 +202,10 @@ export default {
 }
 
 .infinite-list-item {
-  padding: 5px;
+  /* padding: 5px;
   color: #555;
   box-sizing: border-box;
   border-bottom: 1px solid #999;
-  /* height:200px; */
+  height:200px; */
 }
 </style>
